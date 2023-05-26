@@ -7,7 +7,7 @@ As part of data analysis, we can see the correlation between car price and fraud
 
 mean absolute error of dufferent models have been copmared:
 
-<img src="mae.png" width="600" height="400">
+<img src="mae.png">
 
 
 
